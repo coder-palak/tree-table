@@ -1,0 +1,11 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingReturn,uselessCode} checked by tsc
+ */
+/** @type {?} */
+export var defaultOptions = {
+    verticalSeparator: true,
+    highlightRowOnHover: true,
+    elevation: 5
+};
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZGVmYXVsdC5vcHRpb25zLmpzIiwic291cmNlUm9vdCI6Im5nOi8vbmctbWF0ZXJpYWwtdHJlZXRhYmxlLyIsInNvdXJjZXMiOlsic3JjL2FwcC90cmVldGFibGUvZGVmYXVsdC5vcHRpb25zLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7O0FBRUEsTUFBTSxLQUFPLGNBQWMsR0FBaUI7SUFDMUMsaUJBQWlCLEVBQUUsSUFBSTtJQUN4QixtQkFBbUIsRUFBRSxJQUFJO0lBQ3pCLFNBQVMsRUFBRSxDQUFDO0NBQ1oiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBPcHRpb25zIH0gZnJvbSAnLi9tb2RlbHMnO1xuXG5leHBvcnQgY29uc3QgZGVmYXVsdE9wdGlvbnM6IE9wdGlvbnM8YW55PiA9IHtcbiAgdmVydGljYWxTZXBhcmF0b3I6IHRydWUsXG5cdGhpZ2hsaWdodFJvd09uSG92ZXI6IHRydWUsXG5cdGVsZXZhdGlvbjogNVxufTtcbiJdfQ==
